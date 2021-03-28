@@ -1,0 +1,13 @@
+{
+    "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword":"wt",
+    "Name":"Windows Terminal Launcher",
+    "Description":"Launch Windows Terminal",
+    "Author":"sunn4room",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/sunn4room/wox-windows-terminal",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py",
+    "Disabled": false
+}
